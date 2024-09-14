@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome
+My name is Nir Diamant. I'm an AI researcher and community builder, focusing on making cutting-edge AI accessible 🤖
 
-<!--
-**NirDiamant/NirDiamant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You might know me for a few things:
+* 💎 Founder of the DiamantAI community, where people can discuss, contribute, and stay updated on our open-source projects.
+* 📚 Creator of two unique, educational open-source projects:<br>
+   * RAG Techniques<br>
+   * GenAI Agents<br>
+These repositories feature well-explained, high-quality notebook tutorials covering various AI aspects.
+* 📧 Author of an AI-focused newsletter, offering overviews of our new content and in-depth articles on our implementation methods.
+* 🚀 Constantly working on implementing and explaining the newest AI techniques, maintaining a high standard for every tutorial.
 
-Here are some ideas to get you started:
+📢 [Subscribe to our Newsletter](https://yoursubstack.substack.com) for the latest AI insights!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 [Join our Discord Community](https://discord.gg/your-discord-link) to discuss and contribute!
