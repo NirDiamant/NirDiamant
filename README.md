@@ -11,6 +11,6 @@ You might know me for a few things:
 * 📧 Author of an AI-focused newsletter, offering overviews of our new content and in-depth articles on the methods we implement.
 * 🚀 Constantly working on implementing and explaining the newest AI techniques, maintaining a high standard for every tutorial.
 
-📢 [Subscribe to our Newsletter](https://diamantai.substack.com/) for the latest AI insights!
+📢 **[Subscribe to our Newsletter](https://diamantai.substack.com/)** for the latest AI insights!
 
-🤝 [Join our Discord Community](https://discord.gg/cA6Aa4uyDX) to discuss and contribute!
+🤝 **[Join our Discord Community](https://discord.gg/cA6Aa4uyDX)** to discuss and contribute!
