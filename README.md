@@ -2,7 +2,8 @@
 My name is Nir Diamant. I'm an AI researcher and community builder, focusing on <ins> making cutting-edge AI accessible 🤖 </ins>
 
 You might know me for a few things:
-* 📚 **Creator of two unique, educational open-source projects**:
+* 📚 **Creator of Three unique, educational open-source projects**:
+   * Prompt Engineering  
    * RAG Techniques
    * GenAI Agents
   
