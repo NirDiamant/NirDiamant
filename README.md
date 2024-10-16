@@ -12,3 +12,5 @@ You might know me for a few things:
 * 📧 **Author of our unique top 1% AI-focused [Newsletter](https://diamantai.substack.com/)**, offering overviews of our new content and in-depth articles on the methods we implement.
 * 🚀 Constantly working on implementing and explaining the newest AI techniques, maintaining a high standard for every tutorial.
 
+* 🔗 You can also follow my **[Squad](https://dly.to/ZNZiSh9oCGY)** on daily.dev for more interactions 
+
