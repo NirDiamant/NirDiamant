@@ -8,9 +8,9 @@ You might know me for a few things:
    * GenAI Agents
   
   These repositories feature well-explained, high-quality notebook tutorials covering various AI aspects.
+  
 * 💎 **Founder of [DiamantAI Community](https://discord.gg/cA6Aa4uyDX)**, where people can discuss, contribute, and stay updated on our open-source projects.
-* 📧 **Author of our unique top 1% AI-focused [Newsletter](https://diamantai.substack.com/)**, offering overviews of our new content and in-depth articles on the methods we implement.
+* 📧 Subscribe to my Top 1% **[AI Newsletter](https://diamantai.substack.com/)** - Join thousands of developers getting hand-crafted tutorials, GenAI updates, implementation guides, and exclusive community events.
+* 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** to stay updated on AI developments and discussions.
 * 🚀 Constantly working on implementing and explaining the newest AI techniques, maintaining a high standard for every tutorial.
-
-* 🔗 You can also follow my **[Squad](https://dly.to/ZNZiSh9oCGY)** on daily.dev for more interactions 
 
