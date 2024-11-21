@@ -16,7 +16,8 @@ You might know me for a few things:
 ### Support Open Source
 If you find these resources valuable, please consider:
 * ⭐ Starring the repositories you use
-* 💖 Supporting my work through **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** - Help me create more free educational content
+* 💖 Supporting my work through **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** or through **[Buy Me a Coffee](buymeacoffee.com/diamantai
+)** - Help me create more free educational content
 * 🗣️ Sharing these resources with others who might benefit
 
 Your support helps maintain and grow these free educational resources for the community!
