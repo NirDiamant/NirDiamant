@@ -1,6 +1,5 @@
 # Welcome
 My name is Nir Diamant. I'm an AI researcher and community builder, focusing on <ins> making cutting-edge AI accessible 🤖 </ins>
-
 You might know me for a few things:
 * 📚 **Creator of Three unique, educational open-source projects**:
    * Prompt Engineering  
@@ -14,3 +13,10 @@ You might know me for a few things:
 * 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** to stay updated on AI developments and discussions.
 * 🚀 Constantly working on implementing and explaining the newest AI techniques, maintaining a high standard for every tutorial.
 
+### Support Open Source
+If you find these resources valuable, please consider:
+* ⭐ Starring the repositories you use
+* 💖 Supporting my work through **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** - Help me create more free educational content
+* 🗣️ Sharing these resources with others who might benefit
+
+Your support helps maintain and grow these free educational resources for the community!
