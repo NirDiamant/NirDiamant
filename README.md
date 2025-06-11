@@ -8,7 +8,7 @@ You might know me for a few things:
   
   These repositories feature well-explained, high-quality notebook tutorials covering various AI aspects.
   
-* 📧 Subscribe to my Top 0.1% **[AI Newsletter](https://diamantai.substack.com/)** - Join over 20,000 developers getting hand-crafted tutorials, GenAI updates, implementation guides, and exclusive community events.
+* 📧 Subscribe to my Top 0.1% **[AI Newsletter](https://diamantai.substack.com/)** - Join over 25,000 developers getting hand-crafted tutorials, GenAI updates, implementation guides, and exclusive community events.
 * 💎 **Founder of [DiamantAI Community](https://discord.gg/cA6Aa4uyDX)**, where people can discuss, contribute, and stay updated on our open-source projects.
 * 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** to stay updated on AI developments and discussions.
 * 🚀 Constantly working on implementing and explaining the newest AI techniques, maintaining a high standard for every tutorial.
