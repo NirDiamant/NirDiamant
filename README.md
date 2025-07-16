@@ -4,10 +4,10 @@ My name is Nir Diamant. I'm an AI researcher and community builder, focusing on 
 You might know me for a few things:
 
 * 📚 **Creator of four unique, educational open-source projects**:  
-   * [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)  
-   * [Prompt Engineering](https://github.com/NirDiamant/prompt-engineering)  
-   * [RAG Techniques](https://github.com/NirDiamant/rag_techniques)  
-   * [GenAI Agents](https://github.com/NirDiamant/genai_agents)  
+   * **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)**  
+   * **[Prompt Engineering](https://github.com/NirDiamant/prompt-engineering)**  
+   * **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)**  
+   * **[GenAI Agents](https://github.com/NirDiamant/genai_agents)**  
 
   These repositories feature well-explained, high-quality notebook tutorials covering various AI aspects.
 
