@@ -1,6 +1,7 @@
+<div align="center">
 # Nir Diamant 🤖
 
-<div align="center">
+
 
 AI researcher · Community builder  
 Making cutting‑edge AI practical for everyone
@@ -23,26 +24,26 @@ Making cutting‑edge AI practical for everyone
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Agents Towards Production** | Step‑by‑step notebooks for deploying robust AI agents | [Repo](https://github.com/NirDiamant/agents-towards-production) |
-| **Prompt Engineering** | Practical patterns for prompt design and evaluation | [Repo](https://github.com/NirDiamant/prompt_engineering) |
-| **RAG Techniques** | Retrieval‑Augmented Generation recipes and benchmarks | [Repo](https://github.com/NirDiamant/rag_techniques) |
-| **GenAI Agents** | Modular agent library with memory, tools, and guardrails | [Repo](https://github.com/NirDiamant/genai_agents) |
+| **Agents Towards Production** | Step‑by‑step notebooks for deploying robust AI agents | **[Repo](https://github.com/NirDiamant/agents-towards-production)** |
+| **Prompt Engineering** | Practical patterns for prompt design and evaluation | **[Repo](https://github.com/NirDiamant/prompt_engineering)** |
+| **RAG Techniques** | Retrieval‑Augmented Generation recipes and benchmarks | **[Repo](https://github.com/NirDiamant/rag_techniques)** |
+| **GenAI Agents** | Modular agent library with memory, tools, and guardrails | **[Repo](https://github.com/NirDiamant/genai_agents)** |
 
 ---
 
 ## 📣 Join the Community
 
 - 💌 **DiamantAI Newsletter** - deep‑dive tutorials, updates, and exclusive events  
-  [Subscribe here](https://diamantai.substack.com)
+  **[Subscribe here](https://diamantai.substack.com)**
 
 - 💬 **DiamantAI Discord** - collaborate, ask questions, and contribute to projects  
-  [Join the server](https://discord.gg/cA6Aa4uyDX)
+  **[Join the server](https://discord.gg/cA6Aa4uyDX)**
 
 - 🧑‍💻 **r/EducationalAI** - share AI tutorials, research, and insights  
-  [Start a thread](https://www.reddit.com/r/EducationalAI/)
+  **[Start a thread](https://www.reddit.com/r/EducationalAI/)**
 
 - 🔗 **LinkedIn** - follow for professional updates and opportunities  
-  [Connect here](https://www.linkedin.com/in/nir-diamant-ai/)
+  **[Connect here](https://www.linkedin.com/in/nir-diamant-ai/)**
 
 ---
 
@@ -51,7 +52,7 @@ Making cutting‑edge AI practical for everyone
 If my work helps you, please consider:
 
 - ⭐ Star the repositories you use - it boosts visibility  
-- ☕ Sponsor via [GitHub Sponsors](https://github.com/sponsors/NirDiamant) or [Buy Me a Coffee](https://buymeacoffee.com/diamantai)  
+- ☕ Sponsor via **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** or **[Buy Me a Coffee](https://buymeacoffee.com/diamantai)**
 - 📢 Share these resources with colleagues who might benefit  
 
 Thank you for helping keep these educational resources free for everyone 🙏
