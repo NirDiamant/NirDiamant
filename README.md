@@ -9,9 +9,9 @@ You might know me for a few things:
    * **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)**  
    * **[GenAI Agents](https://github.com/NirDiamant/genai_agents)**
      
- ![Total Stars](https://github-readme-stats.vercel.app/api?username=NirDiamant&hide=commits,prs,issues,contribs&hide_rank=true&show_icons=false&count_private=true&theme=default)
-
   These repositories feature well-explained, high-quality notebook tutorials covering various AI aspects.
+![Total Stars](https://github-readme-stats.vercel.app/api?username=NirDiamant&hide=commits,prs,issues,contribs&hide_rank=true&show_icons=false&count_private=true&theme=default)
+
 
 * 📧 Subscribe to my Top 0.1% **[AI Newsletter](https://diamantai.substack.com/)**  
   Join over 25,000 developers getting hand-crafted tutorials, GenAI updates, implementation guides, and exclusive community events.
