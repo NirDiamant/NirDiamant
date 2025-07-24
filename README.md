@@ -8,8 +8,8 @@ You might know me for a few things:
    * **[Prompt Engineering](https://github.com/NirDiamant/prompt_engineering)**  
    * **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)**  
    * **[GenAI Agents](https://github.com/NirDiamant/genai_agents)**
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=NirDiamant&title=stars&theme=flat&no-frame=true)
+     
+ ![Total Stars](https://github-readme-stats.vercel.app/api?username=NirDiamant&hide=commits,prs,issues,contribs&hide_rank=true&show_icons=false&count_private=true&theme=default)
 
   These repositories feature well-explained, high-quality notebook tutorials covering various AI aspects.
 
