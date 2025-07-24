@@ -2,13 +2,19 @@
 
 <div align="center">
 
-AI researcher · Community builder  
+AI researcher · Community builder<br>
 Making cutting‑edge AI practical for everyone
 
-<!-- BADGES -->
-<a href="https://img.shields.io/badge/Total%20Stars-50.7k-blue">
-  <img src="https://img.shields.io/badge/Total%20Stars-50.7k-blue" alt="Total GitHub stars">
-</a>
+<!-- Dynamic total‑stars card -->
+<br>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=NirDiamant&count_private=true&show_icons=false&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20Stars&hide_border=true"
+  alt="Total GitHub stars"
+  width="300"
+/>
+<br><br>
+
+<!-- Static badges -->
 <a href="https://diamantai.substack.com">
   <img src="https://img.shields.io/badge/Newsletter-30k%2B-green" alt="Substack subscribers">
 </a>
@@ -32,16 +38,16 @@ Making cutting‑edge AI practical for everyone
 
 ## 📣 Join the Community
 
-- 💌 **DiamantAI Newsletter** - deep‑dive tutorials, updates, and exclusive events  
+- 💌 **DiamantAI Newsletter** – deep‑dive tutorials, updates, and exclusive events  
   **[Subscribe here](https://diamantai.substack.com)**
 
-- 💬 **DiamantAI Discord** - collaborate, ask questions, and contribute to projects  
+- 💬 **DiamantAI Discord** – collaborate, ask questions, and contribute to projects  
   **[Join the server](https://discord.gg/cA6Aa4uyDX)**
 
-- 🧑‍💻 **r/EducationalAI** - share AI tutorials, research, and insights  
+- 🧑‍💻 **r/EducationalAI** – share AI tutorials, research, and insights  
   **[Start a thread](https://www.reddit.com/r/EducationalAI/)**
 
-- 🔗 **LinkedIn** - follow for professional updates and opportunities  
+- 🔗 **LinkedIn** – follow for professional updates and opportunities  
   **[Connect here](https://www.linkedin.com/in/nir-diamant-ai/)**
 
 ---
@@ -50,8 +56,8 @@ Making cutting‑edge AI practical for everyone
 
 If my work helps you, please consider:
 
-- ⭐ Star the repositories you use - it boosts visibility  
-- ☕ Sponsor via **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** or **[Buy Me a Coffee](https://buymeacoffee.com/diamantai)**
-- 📢 Share these resources with colleagues who might benefit  
+- ⭐ Star the repositories you use ‑ it boosts visibility  
+- ☕ Sponsor via **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** or **[Buy Me a Coffee](https://buymeacoffee.com/diamantai)**  
+- 📢 Share these resources with colleagues who might benefit  
 
 Thank you for helping keep these educational resources free for everyone 🙏
