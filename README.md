@@ -25,6 +25,21 @@ Making cutting‑edge AI practical for everyone
 
 ---
 
+## 🤝 Collaboration Invitation – 500 000 Monthly Developer Views
+
+I publish open, vendor‑neutral tutorials that help developers master new AI tools.  
+If your technology can genuinely benefit the community, let us explore creating a hands‑on notebook together.
+
+- **Reach** - 500 000+ monthly views from developers who build real products  
+- **Format** - clear, reproducible notebooks with no paywalls or hidden ads  
+- **Goal** - give developers practical knowledge they can run, learn from, and extend
+
+Sound like a fit? Contact me via  
+**[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** or **[diamant‑ai.com](https://www.diamant-ai.com/)**.  
+Together we can turn good tech into useful, honest learning resources for everyone.
+
+---
+
 ## ⭐ Flagship Open Source Projects
 
 | Project | Description | Link |
@@ -38,26 +53,26 @@ Making cutting‑edge AI practical for everyone
 
 ## 📣 Join the Community
 
-- 💌 **DiamantAI Newsletter** – deep‑dive tutorials, updates, and exclusive events  
+- 💌 **DiamantAI Newsletter** - deep‑dive tutorials, updates, and exclusive events  
   **[Subscribe here](https://diamantai.substack.com)**
 
-- 💬 **DiamantAI Discord** – collaborate, ask questions, and contribute to projects  
-  **[Join the server](https://discord.gg/cA6Aa4uyDX)**
-
-- 🧑‍💻 **r/EducationalAI** – share AI tutorials, research, and insights  
+- 🧑‍💻 **r/EducationalAI** - share AI tutorials, research, and insights  
   **[Start a thread](https://www.reddit.com/r/EducationalAI/)**
 
-- 🔗 **LinkedIn** – follow for professional updates and opportunities  
+- 💬 **DiamantAI Discord** - collaborate, ask questions, and contribute to projects  
+  **[Join the server](https://discord.gg/cA6Aa4uyDX)**
+
+- 🔗 **LinkedIn** - follow for professional updates and opportunities  
   **[Connect here](https://www.linkedin.com/in/nir-diamant-ai/)**
 
 ---
 
-## 🤝 Support Open Source
+## ❤️ Support Open Source
 
 If my work helps you, please consider:
 
-- ⭐ Star the repositories you use ‑ it boosts visibility  
-- ☕ Sponsor via **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** or **[Buy Me a Coffee](https://buymeacoffee.com/diamantai)**  
-- 📢 Share these resources with colleagues who might benefit  
+- ⭐ Star the repositories you use – it boosts visibility  
+- ☕ Sponsor via **[GitHub Sponsors](https://github.com/sponsors/NirDiamant)** or **[Buy Me a Coffee](https://buymeacoffee.com/diamantai)**  
+- 📢 Share these resources with colleagues who might benefit  
 
 Thank you for helping keep these educational resources free for everyone 🙏
