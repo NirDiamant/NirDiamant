@@ -1,7 +1,6 @@
+<h1 align="center">Nir Diamant 🤖</h1>
+
 <div align="center">
-# Nir Diamant 🤖
-
-
 
 AI researcher · Community builder  
 Making cutting‑edge AI practical for everyone
