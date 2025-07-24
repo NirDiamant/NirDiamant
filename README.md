@@ -1,6 +1,5 @@
-<h1 align="center">Nir Diamant 🤖</h1>
+<h1>Nir Diamant 🤖</h1>
 
-<div align="center">
 
 AI researcher · Community builder<br>
 Making cutting‑edge AI practical for everyone
@@ -21,7 +20,6 @@ Making cutting‑edge AI practical for everyone
 <a href="https://discord.gg/cA6Aa4uyDX">
   <img src="https://img.shields.io/badge/Discord-4k%2B%20members-5865F2?logo=discord&logoColor=white" alt="Discord members">
 </a>
-</div>
 
 ---
 
