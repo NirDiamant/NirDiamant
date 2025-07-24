@@ -7,7 +7,9 @@ You might know me for a few things:
    * **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)**  
    * **[Prompt Engineering](https://github.com/NirDiamant/prompt_engineering)**  
    * **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)**  
-   * **[GenAI Agents](https://github.com/NirDiamant/genai_agents)**  
+   * **[GenAI Agents](https://github.com/NirDiamant/genai_agents)**
+ 
+![NirDiamant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirDiamant&show_icons=true&count_private=true&theme=radical)
 
   These repositories feature well-explained, high-quality notebook tutorials covering various AI aspects.
 
