@@ -108,8 +108,14 @@ If you build technology that plugs into the GenAI agent or RAG stack - vector da
 
 </div>
 
-Interested? Contact me on  
-**[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** or at **[Diamant‑AI.com](https://www.diamant-ai.com/)**.
+<p align="center">
+  Interested? Contact me on
+  <br>
+  <b><a href="https://www.linkedin.com/in/nir-diamant-ai/">LinkedIn</a></b>
+  or at
+  <b><a href="https://www.diamant-ai.com/">Diamant‑AI.com</a></b>.
+</p>
+
 
 ---
 
