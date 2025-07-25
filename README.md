@@ -33,7 +33,7 @@ Turning cutting‑edge AI research into reliable, production‑ready systems
 
 ## 🤝 Collaboration – Feature Your AI Tool in an Open Notebook
 
-I publish vendor‑neutral, runnable tutorials that teach you how to design production‑grade generative‑AI agents — stateful, tool‑using, memory‑aware — and how to build complete retrieval‑augmented generation (RAG) pipelines from indexing to evaluation. Along the way we cover prompt crafting, vector databases, security guardrails, observability, CI/CD, GPU scaling, and every pattern you need to move from prototype to real product.
+I publish vendor‑neutral, runnable tutorials that teach you how to design production‑grade generative‑AI agents - stateful, tool‑using, memory‑aware - and how to build complete retrieval‑augmented generation (RAG) pipelines from indexing to evaluation. Along the way we cover prompt crafting, vector databases, security guardrails, observability, CI/CD, GPU scaling, and every pattern you need to move from prototype to real product.
 
 
 - **Reach** - 500 000+ developer views per month  
