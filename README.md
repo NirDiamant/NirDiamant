@@ -33,7 +33,8 @@ Turning cutting‑edge AI research into reliable, production‑ready systems
 
 ## 🤝 Collaboration – Feature Your AI Tool in an Open Notebook
 
-If you build technology that plugs into the GenAI agent or RAG stack - vector databases, embedding APIs, web search services, orchestration layers, observability platforms, GPU hosting, guardrail engines, and similar - let us co‑create an open Jupyter tutorial that shows developers how to use your product in a neutral end to end workflow. The tutorial stays free and vendor agnostic, you gain authentic adoption, and the community gets another fully runnable example.
+If you build technology that fits the generative AI agent or Retrieval‑Augmented Generation stack - vector databases, embeddings APIs, real time web search, orchestration layers, observability platforms, GPU hosting, security guardrails, and similar - let us co‑create an open source Jupyter tutorial that shows developers a neutral end to end workflow for your tool. The content stays free and vendor agnostic, you gain authentic adoption, and the community gets another fully runnable example.
+
 
 
 - **Reach** - 500 000+ developer views per month  
