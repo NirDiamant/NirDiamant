@@ -40,6 +40,48 @@ If you build technology that plugs into the GenAI agent or RAG stack - vector da
 - **Format** - clear, reproducible notebooks with no paywalls or ads  
 - **Goal** - give developers runnable examples while partners gain authentic adoption
 
+  <!-- partner logos strip -->
+<div align="center">
+
+<a href="https://langchain.com" title="LangChain">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png"
+       alt="LangChain logo" height="60">
+</a>
+<a href="https://redis.io" title="Redis">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"
+       alt="Redis logo" height="60">
+</a>
+<a href="https://app.tavily.com" title="Tavily">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"
+       alt="Tavily logo" height="60">
+</a>
+<a href="https://brightdata.com" title="Bright Data">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png"
+       alt="Bright Data logo" height="60">
+</a>
+<a href="https://get.runpod.io/nirdiamant" title="RunPod">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
+       alt="RunPod logo" height="60">
+</a>
+<a href="https://app.xpander.ai" title="xpander.ai">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png"
+       alt="xpander.ai logo" height="60">
+</a>
+<a href="https://app.qualifire.ai" title="Qualifire">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
+       alt="Qualifire logo" height="60">
+</a>
+<a href="https://anchorbrowser.io" title="Anchor Browser">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png"
+       alt="Anchor Browser logo" height="60">
+</a>
+<a href="https://zilliz.com" title="Zilliz">
+  <img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png"
+       alt="Zilliz logo" height="60">
+</a>
+
+</div>
+
 Interested? Contact me on  
 **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** or at **[Diamant‑AI.com](https://www.diamant-ai.com/)**.
 
