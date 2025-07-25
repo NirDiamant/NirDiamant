@@ -42,12 +42,13 @@ Together we can turn good tech into useful, honest learning resources for everyo
 
 ## ⭐ Flagship Open Source Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Agents Towards Production** | Step‑by‑step notebooks for deploying robust AI agents | **[Repo](https://github.com/NirDiamant/agents-towards-production)** |
-| **Prompt Engineering** | Practical patterns for prompt design and evaluation | **[Repo](https://github.com/NirDiamant/prompt_engineering)** |
-| **RAG Techniques** | Retrieval‑Augmented Generation recipes and benchmarks | **[Repo](https://github.com/NirDiamant/rag_techniques)** |
-| **GenAI Agents** | Modular agent library with memory, tools, and guardrails | **[Repo](https://github.com/NirDiamant/genai_agents)** |
+| Repository | What it offers | Stars |
+|------------|---------------|-------|
+| **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** | Modular tutorials that cover ingestion, retrieval, memory, tool routing, guardrails, evaluation, observability, CI/CD, cost tracking, security, and cloud deployment for production‑level GenAI agents. | ![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=social) | 
+| **[Prompt Engineering](https://github.com/NirDiamant/prompt_engineering)** | Notebook series that takes you from prompt‑writing fundamentals to advanced techniques, with hands‑on code and exercises. | ![Stars](https://img.shields.io/github/stars/NirDiamant/prompt_engineering?style=social) |
+| **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)** | 30 plus Retrieval‑Augmented Generation methods, each with step‑by‑step notebooks, benchmarks, and best practices. | ![Stars](https://img.shields.io/github/stars/NirDiamant/rag_techniques?style=social) |
+| **[GenAI Agents](https://github.com/NirDiamant/genai_agents)** | Tutorials and reference implementations for building everything from simple chatbots to complex multi‑agent systems. | ![Stars](https://img.shields.io/github/stars/NirDiamant/genai_agents?style=social) |
+
 
 ---
 
