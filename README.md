@@ -63,7 +63,7 @@ Interested? Contact me on
    **[Join the subreddit](https://www.reddit.com/r/EducationalAI/)**
 3. 💬 **DiamantAI Discord** – real‑time Q&A and project feedback  
    **[Join the server](https://discord.gg/cA6Aa4uyDX)**
-4. 🔗 **LinkedIn** – conference talks, research posts, and community events  
+4. 🔗 **LinkedIn** – follow for fresh tutorials, project updates, and new Gen AI tech highlights  
    **[Connect](https://www.linkedin.com/in/nir-diamant-ai/)**
 
 ---
