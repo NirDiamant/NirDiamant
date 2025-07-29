@@ -53,19 +53,19 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <a href="https://redis.io" title="Redis">
+      <a href="https://redis.io/try-free/?utm_source=nir&utm_medium=cpa&utm_campaign=2025-05-ai_in_production-influencer-nir&utm_content=sd-software_download-7013z000001WaRY" title="Redis">
         <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"
              alt="Redis logo" height="48">
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <a href="https://app.tavily.com" title="Tavily">
+      <a href="https://app.tavily.com/home/?utm_source=github&utm_medium=referral&utm_campaign=nir_diamant" title="Tavily">
         <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"
              alt="Tavily logo" height="48">
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <a href="https://brightdata.com" title="Bright Data">
+      <a href="https://brightdata.com/ai?utm_source=brand&utm_campaign=brnd-mkt_github_nirdiamant_logo" title="Bright Data">
         <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png"
              alt="Bright Data logo" height="48">
       </a>
@@ -79,19 +79,19 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <a href="https://app.xpander.ai" title="xpander.ai">
+      <a href="https://app.xpander.ai/login?utm=atp" title="xpander.ai">
         <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png"
              alt="xpander.ai logo" height="48">
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <a href="https://app.qualifire.ai" title="Qualifire">
+      <a href="https://app.qualifire.ai?utm=agents-towards-production" title="Qualifire">
         <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
              alt="Qualifire logo" height="48">
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <a href="https://anchorbrowser.io" title="Anchor Browser">
+      <a href="https://anchorbrowser.io?utm_source=agents-towards-production" title="Anchor Browser">
         <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png"
              alt="Anchor Browser logo" height="48">
       </a>
@@ -99,7 +99,7 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
   </tr>
   <tr>
     <td align="center" colspan="4" style="padding:10px">
-      <a href="https://zilliz.com" title="Zilliz">
+      <a href="https://cloud.zilliz.com/signup?utm_source=github&utm_medium=referral&utm_campaign=Nir-250512" title="Zilliz">
         <img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png"
              alt="Zilliz logo" height="48">
       </a>
