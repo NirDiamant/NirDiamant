@@ -137,11 +137,6 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <!-- Empty cell for alignment -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4" style="padding:10px">
       <a href="https://cloud.zilliz.com/signup?utm_source=github&utm_medium=referral&utm_campaign=Nir-250512" title="Zilliz">
         <img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png"
              alt="Zilliz logo" height="48">
