@@ -35,13 +35,11 @@ Turning cutting‑edge AI research into reliable, production‑ready systems
 
 If you build technology that fits the generative AI agent or Retrieval‑Augmented Generation stack - vector databases, embeddings APIs, real time web search, orchestration layers, observability platforms, GPU hosting, security guardrails, and similar - let us co‑create an open source Jupyter tutorial that shows developers a neutral end to end workflow for your tool. The content stays free and vendor agnostic, you gain authentic adoption, and the community gets another fully runnable example.
 
-
-
 - **Reach** - 500 000+ developer views per month  
 - **Format** - clear, reproducible notebooks with no paywalls or ads  
 - **Goal** - give developers runnable examples while partners gain authentic adoption
 
- <!-- partner logos -->
+<!-- partner logos -->
 <div align="center">
 
 <table>
@@ -127,13 +125,9 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
       </a>
     </td>
     <td align="center" style="padding:10px">
-      <a href="https://anchorbrowser.io?utm_source=agents-towards-production" title="Anchor Browser">
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-                  srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_dark.png">
-          <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png"
-               alt="Anchor Browser logo" height="48">
-        </picture>
+      <a href="https://www.cognee.ai/?utm_source=github&utm_medium=nir_diamant&utm_campaign=sponsorhip_launch_2025-09&utm_content=notebook" title="Cognee">
+        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/blob/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_cognee.png"
+             alt="Cognee logo" height="48">
       </a>
     </td>
     <td align="center" style="padding:10px">
@@ -154,7 +148,6 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
   or at
   <b><a href="https://www.diamant-ai.com/">Diamant‑AI.com</a></b>.
 </p>
-
 
 ---
 
