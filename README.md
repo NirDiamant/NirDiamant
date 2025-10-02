@@ -126,7 +126,7 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
     </td>
     <td align="center" style="padding:10px">
       <a href="https://www.cognee.ai/?utm_source=github&utm_medium=nir_diamant&utm_campaign=sponsorhip_launch_2025-09&utm_content=notebook" title="Cognee">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/blob/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_cognee.png"
+        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_cognee.png"
              alt="Cognee logo" height="48">
       </a>
     </td>
