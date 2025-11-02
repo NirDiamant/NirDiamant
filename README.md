@@ -43,100 +43,37 @@ If you build technology that fits the generative AI agent or Retrieval‑Augment
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" style="padding:10px">
-      <a href="https://langchain.com" title="LangChain">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png"
-             alt="LangChain logo" height="48">
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://redis.io/try-free/?utm_source=nir&utm_medium=cpa&utm_campaign=2025-05-ai_in_production-influencer-nir&utm_content=sd-software_download-7013z000001WaRY" title="Redis">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"
-             alt="Redis logo" height="48">
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://app.contextual.ai/?utm_campaign=agents-towards-production&utm_source=diamantai&utm_medium=github&utm_content=notebook" title="Contextual AI">
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-                  srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_white.png">
-          <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_black.png"
-               alt="Contextual AI logo" height="48">
-        </picture>
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://app.tavily.com/home/?utm_source=github&utm_medium=referral&utm_campaign=nir_diamant" title="Tavily">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"
-             alt="Tavily logo" height="48">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:10px">
-      <a href="https://brightdata.com/ai?utm_source=brand&utm_campaign=brnd-mkt_github_nirdiamant_logo" title="Bright Data">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png"
-             alt="Bright Data logo" height="48">
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://api.arcade.dev/signup?utm_source=github&utm_medium=notebook&utm_campaign=nir_diamant&utm_content=tutorial" title="Arcade">
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-                  srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_white_tight.png">
-          <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_black.png"
-               alt="Arcade logo" height="48">
-        </picture>
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://portiaai.org/3J8gAwY" title="Portia">
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-                  srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_white_tight.png">
-          <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_black_tight.png"
-               alt="Portia logo" height="48">
-        </picture>
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://docs.coralprotocol.org/CoralDoc/Introduction/UsingAgents#devmode?utm_source=github&utm_medium=referral&utm_campaign=nir_github&utm_id=nir_coralprotocol" title="Coral Protocol">
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-                  srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_coral_white.png">
-          <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_coral_black.png"
-               alt="Coral Protocol logo" height="48">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:10px">
-      <a href="https://get.runpod.io/nirdiamant" title="RunPod">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
-             alt="RunPod logo" height="48">
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://app.qualifire.ai?utm=agents-towards-production" title="Qualifire">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
-             alt="Qualifire logo" height="48">
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://www.cognee.ai/?utm_source=github&utm_medium=nir_diamant&utm_campaign=sponsorhip_launch_2025-09&utm_content=notebook" title="Cognee">
-        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_cognee.png"
-             alt="Cognee logo" height="48">
-      </a>
-    </td>
-    <td align="center" style="padding:10px">
-      <a href="https://cloud.zilliz.com/signup?utm_source=github&utm_medium=referral&utm_campaign=Nir-250512" title="Zilliz">
-        <img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png"
-             alt="Zilliz logo" height="48">
-      </a>
-    </td>
-  </tr>
+ <tr>
+  <td align="center" style="padding:10px">
+    <a href="https://get.runpod.io/nirdiamant" title="RunPod">
+      <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
+           alt="RunPod logo" height="48">
+    </a>
+  </td>
+  <td align="center" style="padding:10px">
+    <a href="https://www.cognee.ai/?utm_source=github&utm_medium=nir_diamant&utm_campaign=sponsorhip_launch_2025-09&utm_content=notebook" title="Cognee">
+      <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_cognee.png"
+           alt="Cognee logo" height="48">
+    </a>
+  </td>
+  <td align="center" style="padding:10px">
+    <a href="https://cloud.zilliz.com/signup?utm_source=github&utm_medium=referral&utm_campaign=Nir-250512" title="Zilliz">
+      <img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png"
+           alt="Zilliz logo" height="48">
+    </a>
+  </td>
+  <td align="center" style="padding:10px">
+    <a href="https://www.igpt.ai/?utm_source=nir_diamant" title="iGPT">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/iGPT-logo-white.png">
+        <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/iGPT-logo-Black.png"
+             alt="iGPT logo" height="48">
+      </picture>
+    </a>
+  </td>
+</tr>
+
 </table>
 
 </div>
