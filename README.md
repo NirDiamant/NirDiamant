@@ -8,7 +8,7 @@ Turning cutting-edge AI research into reliable, production-ready systems
 <br>
 
 <a href="https://github.com/NirDiamant">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=NirDiamant&show_icons=true&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20GitHub%20Stars&theme=transparent&border_radius=10" alt="Total GitHub Stars" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NirDiamant&show_icons=true&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20GitHub%20Stars&theme=transparent&cache_seconds=1800" alt="Total GitHub Stars" width="400" />
 </a>
 
 <br><br>
