@@ -11,11 +11,11 @@ Turning cutting-edge AI research into reliable, production-ready systems
 
 <!-- Dynamic total-stars card -->
 <br>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=NirDiamant&count_private=true&show_icons=false&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20GitHub%20Stars&hide_border=true"
-  alt="Total GitHub stars across Nir Diamant open-source AI repositories"
-  width="360"
-/>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NirDiamant&count_private=true&show_icons=false&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20GitHub%20Stars&hide_border=true" alt="Total GitHub Stars" width="360" />
+  </a>
+</p>
 <br><br>
 
 <!-- Static badges -->
