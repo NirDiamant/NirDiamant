@@ -2,16 +2,14 @@
 
 <div align="center">
 
-AI researcher · Community builder – reaching 500,000+ developers every month  
+AI researcher · Community builder – reaching 500,000+ developers every month<br>
 Turning cutting-edge AI research into reliable, production-ready systems
 
-<br>
+<br><br>
 
 <a href="https://github.com/NirDiamant">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirDiamant&show_icons=true&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20GitHub%20Stars&theme=transparent&cache_seconds=1800" alt="Total GitHub Stars" width="400" />
+  <img src="https://img.shields.io/github/stars/NirDiamant?style=for-the-badge&label=Total%20GitHub%20Stars&labelColor=24292e&color=eac54f&logo=github" alt="Total GitHub Stars">
 </a>
-
-<br><br>
 
 <a href="https://diamantai.substack.com">
   <img src="https://img.shields.io/badge/Newsletter-30k%2B-green?style=for-the-badge"
@@ -52,11 +50,11 @@ If you build technology for the GenAI stack—vector databases, orchestration la
 
 ## ⭐ Flagship Open-Source Projects
 
-| Repository | What you learn | Live Stars |
+| Repository | Focus & Core Learning | Live Stars |
 | :--- | :--- | :--- |
-| **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** | Memory, tool routing, guardrails, evaluation, and cloud deployment for production AI. | ![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
-| **[Prompt Engineering](https://github.com/NirDiamant/prompt_engineering)** | 20-chapter series moving from prompt basics to advanced steering and exercises. | ![Stars](https://img.shields.io/github/stars/NirDiamant/prompt_engineering?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
-| **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)** | 30+ tutorials on advanced retrieval methods, reranking, and RAG evaluation pipelines. | ![Stars](https://img.shields.io/github/stars/NirDiamant/rag_techniques?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
+| **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** | Memory, tool routing, guardrails, and CI/CD for production AI agents. | ![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
+| **[Prompt Engineering](https://github.com/NirDiamant/prompt_engineering)** | 20-chapter series moving from prompt basics to advanced steering techniques. | ![Stars](https://img.shields.io/github/stars/NirDiamant/prompt_engineering?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
+| **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)** | 30+ tutorials on advanced retrieval, reranking, and evaluation pipelines. | ![Stars](https://img.shields.io/github/stars/NirDiamant/rag_techniques?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
 | **[GenAI Agents](https://github.com/NirDiamant/genai_agents)** | Reference implementations for autonomous agents and multi-agent workflows. | ![Stars](https://img.shields.io/github/stars/NirDiamant/genai_agents?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
 
 ---
