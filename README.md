@@ -24,6 +24,24 @@ Turning cutting-edge AI research into reliable, production-ready systems
 
 ---
 
+<div align="center">
+
+### 🏆 NEW — #1 Amazon Best Seller in Generative AI
+
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=RAG%20Made%20Simple">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/images/rag_book_best_seller.png" alt="RAG Made Simple — #1 Best Seller in Generative AI on Amazon" width="320">
+</a>
+
+## 📖 [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=RAG%20Made%20Simple) — the complete visual guide to RAG
+
+22 techniques with intuition, side-by-side comparisons, and illustrations that make the tricky parts finally click.
+
+### ⏳ Launch window: **$0.99** → [**Get it on Amazon before the price changes**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=Get%20the%20book%20on%20Amazon)
+
+</div>
+
+---
+
 ## 🤝 Collaboration – Feature Your AI Tool
 
 If you build technology for the GenAI stack—vector databases, orchestration layers, observability, or security—let’s co-create an open-source Jupyter tutorial.
