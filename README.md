@@ -26,17 +26,27 @@ Turning cutting-edge AI research into reliable, production-ready systems
 
 <div align="center">
 
-### 🏆 NEW — #1 Amazon Best Seller in Generative AI
+### 🏆 Amazon Bestseller in Generative AI
 
 <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=RAG%20Made%20Simple">
-  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/images/rag_book_best_seller.png" alt="RAG Made Simple — #1 Best Seller in Generative AI on Amazon" width="320">
+  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="320">
 </a>
 
-## 📖 [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=RAG%20Made%20Simple) — the complete visual guide to RAG
+## 📖 [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=RAG%20Made%20Simple) - the complete visual guide to RAG
 
-22 techniques with intuition, side-by-side comparisons, and illustrations that make the tricky parts finally click.
+A 400-page reference: 22 techniques with the intuition behind each, side-by-side comparisons, and diagrams that make the tricky parts finally click.
 
-### ⏳ Launch window: **$0.99** → [**Get it on Amazon before the price changes**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=Get%20the%20book%20on%20Amazon)
+**1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.4 stars**
+
+📖 **Kindle $9.99 · Paperback $24.99 · Free with Kindle Unlimited**
+
+### 👉 [**Get the book on Amazon**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=Get%20the%20book%20on%20Amazon)
+
+---
+
+#### Companion: [Prompt Engineering: Master the Art of AI Interaction](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5%3Ftag%3Ddiamantai-ragrm-20&text=Prompt%20Engineering)
+
+22 hands-on prompting techniques. The prompting foundation that makes RAG work better.
 
 </div>
 
