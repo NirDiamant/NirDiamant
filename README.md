@@ -28,19 +28,19 @@ Turning cutting-edge AI research into reliable, production-ready systems
 
 ### 🏆 Amazon Bestseller in Generative AI
 
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=RAG%20Made%20Simple">
+<a href="https://diamant-ai.com/rag-made-simple?code=RAGKING">
   <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="320">
 </a>
 
-## 📖 [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=RAG%20Made%20Simple) - the complete visual guide to RAG
+## 📖 [RAG Made Simple](https://diamant-ai.com/rag-made-simple?code=RAGKING) - the complete visual guide to RAG
 
 A 400-page reference: 22 techniques with the intuition behind each, side-by-side comparisons, and diagrams that make the tricky parts finally click.
 
-**1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.4 stars**
+**1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.6 stars**
 
-📖 **Kindle $9.99 · Paperback $24.99 · Free with Kindle Unlimited**
+📖 **PDF + EPUB · GitHub community price: 33% off with code RAGKING**
 
-### 👉 [**Get the book on Amazon**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-hero-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=Get%20the%20book%20on%20Amazon)
+### 👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://diamant-ai.com/rag-made-simple?code=RAGKING)
 
 ---
 
