@@ -11,7 +11,7 @@ Turning cutting-edge AI research into reliable, production-ready systems
   <img src="https://img.shields.io/github/stars/NirDiamant?style=for-the-badge&label=Total%20GitHub%20Stars&labelColor=24292e&color=eac54f&logo=github" alt="Total GitHub Stars">
 </a>
 
-<a href="https://diamantai.substack.com">
+<a href="https://newsletter.diamant-ai.com">
   <img src="https://img.shields.io/badge/Newsletter-35k%2B-green?style=for-the-badge"
        alt="Join 30k plus readers of the DiamantAI newsletter">
 </a>
@@ -91,7 +91,7 @@ If you build technology for the GenAI stack—vector databases, orchestration la
 
 ## 📚 Learn & Connect
 
-1. 💌 **[DiamantAI Newsletter](https://diamantai.substack.com)** – Weekly GenAI tutorials and code walkthroughs.
+1. 💌 **[DiamantAI Newsletter](https://newsletter.diamant-ai.com)** – Weekly GenAI tutorials and code walkthroughs.
 2. 🧑‍💻 **[r/EducationalAI](https://www.reddit.com/r/EducationalAI/)** – Discuss prompts, RAG, and agent design.
 3. 💬 **[DiamantAI Discord](https://discord.gg/cA6Aa4uyDX)** – Real-time Q&A and project feedback.
 4. 🔗 **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** – Daily updates on new GenAI tech highlights.
