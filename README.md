@@ -12,7 +12,7 @@ Turning cutting-edge AI research into reliable, production-ready systems
 </a>
 
 <a href="https://newsletter.diamant-ai.com">
-  <img src="https://img.shields.io/badge/Newsletter-35k%2B-green?style=for-the-badge"
+  <img src="https://img.shields.io/badge/Newsletter-50k%2B-green?style=for-the-badge"
        alt="Join 30k plus readers of the DiamantAI newsletter">
 </a>
 <a href="https://discord.gg/cA6Aa4uyDX">
