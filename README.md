@@ -44,11 +44,8 @@ One course, six open-source repos, three books, and a weekly newsletter. Everyth
 <tr>
 <td align="center">🎬<br><b>7-minute<br>video lecture</b></td>
 <td align="center">🛠️<br><b>Hands-on<br>tutorial</b></td>
-<td align="center">🤖<br><b>AI assistant<br>inside Claude Code</b></td>
 </tr>
 </table>
-
-One `npm install` adds the module's AI assistant to your Claude Code, and it guides you through the tutorial as you build.
 
 <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile-direct&retarget=0&text=course-free-module-direct"><img src="assets/free-module-button.svg" alt="Claim your free module" width="420"></a>
 
