@@ -1,36 +1,104 @@
-<h1 align="center">Nir Diamant 🤖 – Generative AI • LLM • RAG • Production Agents</h1>
-
 <div align="center">
 
-AI researcher · Community builder – reaching 500,000+ developers every month<br>
-Turning cutting-edge AI research into reliable, production-ready systems
+<a href="https://github.com/NirDiamant">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Nir Diamant. Open-source GenAI education: RAG, agents, prompting, production." width="100%">
+</picture>
+</a>
+
+<br>
+
+I turn AI research into systems that hold up in production, and I teach it the same way: **runnable notebooks, not slide decks.**<br>
+Six open-source repos, three books, one course, and a weekly newsletter. Everything here is free to read and run.
+
+<br>
+
+<a href="https://github.com/NirDiamant?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/NirDiamant?style=for-the-badge&label=GitHub%20stars&labelColor=24292e&color=eac54f&logo=github" alt="Total GitHub stars"></a>
+<a href="https://github.com/NirDiamant?tab=followers"><img src="https://img.shields.io/github/followers/NirDiamant?style=for-the-badge&label=Followers&labelColor=24292e&color=0d9488&logo=github" alt="GitHub followers"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=newsletter-badge&target=https%3A%2F%2Fnewsletter.diamant-ai.com&retarget=0&text=newsletter-badge"><img src="https://img.shields.io/badge/Newsletter-50k%2B%20readers-059669?style=for-the-badge&logo=substack&logoColor=white" alt="DiamantAI newsletter, 50k plus readers"></a>
+<a href="https://discord.gg/cA6Aa4uyDX"><img src="https://img.shields.io/badge/Discord-4k%2B%20members-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DiamantAI Discord, 4k plus members"></a>
 
 <br><br>
 
-<a href="https://github.com/NirDiamant">
-  <img src="https://img.shields.io/github/stars/NirDiamant?style=for-the-badge&label=Total%20GitHub%20Stars&labelColor=24292e&color=eac54f&logo=github" alt="Total GitHub Stars">
-</a>
-
-<a href="https://newsletter.diamant-ai.com">
-  <img src="https://img.shields.io/badge/Newsletter-50k%2B-green?style=for-the-badge"
-       alt="Join 30k plus readers of the DiamantAI newsletter">
-</a>
-<a href="https://discord.gg/cA6Aa4uyDX">
-  <img src="https://img.shields.io/badge/Discord-4k%2B%20members-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-       alt="Join 4k plus members on the DiamantAI Discord community">
-</a>
+**Start here:** &nbsp;
+[Learn for free](#-open-source-learn-by-running-the-code) &nbsp;·&nbsp;
+[Read the books](#-books-the-super-ai-engineering-series) &nbsp;·&nbsp;
+[Take the course](#-course-prompt-to-production) &nbsp;·&nbsp;
+[Get the newsletter](#-newsletter-and-community) &nbsp;·&nbsp;
+[Work with me](#-work-with-me)
 
 </div>
 
----
+<br>
 
-<h2 align="center">🎓 My course: Prompt to Production</h2>
+## 📂 Open source: learn by running the code
+
+Every repository is a curriculum. Each technique is a self-contained notebook you can open, run and adapt, with the intuition explained next to the code.
+
+| Repository | What you will learn | Stars |
+| :--- | :--- | :---: |
+| **[RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)** | 41 retrieval-augmented generation techniques, from chunking and reranking to agentic, graph-based and self-correcting RAG, plus an evaluation suite. | ![Stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=flat-square&labelColor=343b41&color=eac54f&label=) |
+| **[GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)** | 59 agent implementations, from a single conversational bot to multi-agent and self-improving systems, across LangGraph, AutoGen and PydanticAI. | ![Stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41&color=eac54f&label=) |
+| **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** | The playbook for shipping agents: orchestration, memory, security, observability, evaluation, deployment, GPU serving and fine-tuning. | ![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41&color=eac54f&label=) |
+| **[Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering)** | 22 prompting techniques, from basic structure through chain-of-thought, self-consistency, prompt security and systematic evaluation. | ![Stars](https://img.shields.io/github/stars/NirDiamant/Prompt_Engineering?style=flat-square&labelColor=343b41&color=eac54f&label=) |
+| **[Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent)** | One complete reference agent: a deterministic graph that plans, decomposes questions, retrieves across stores and verifies its own groundedness. | ![Stars](https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=flat-square&labelColor=343b41&color=eac54f&label=) |
+| **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** | 30 notebooks on memory for agents: buffers, vector and graph stores, cognitive architectures, Mem0, Letta, Zep, Graphiti and LoCoMo benchmarks. | ![Stars](https://img.shields.io/github/stars/NirDiamant/Agent_Memory_Techniques?style=flat-square&labelColor=343b41&color=eac54f&label=) |
+
+**Smaller tools:** [claude-watch](https://github.com/NirDiamant/claude-watch) (live observability for Claude Code sessions) · [Agentic Engineering](https://github.com/NirDiamant/Agentic_Engineering) (a docs layer that gives your coding agent a memory of your project) · [moltbook-agent-guard](https://github.com/NirDiamant/moltbook-agent-guard) (prompt-injection scanning and guardrails for agents)
+
+<br>
+
+## 📚 Books: the Super AI Engineering series
+
+Visual, intuition-first guides. Each one turns a repo above into a book you can read end to end, with diagrams that make the tricky parts click. PDF and EPUB, free lifetime updates, and chapter 1 of each is free to read.
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-image&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-rag-image"><img src="assets/rag-made-simple-cover.jpg" alt="RAG Made Simple book cover" width="200"></a>
+<br><br>
+<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-rag-cta">RAG Made Simple</a></b>
+<br>
+<sub>🏆 Amazon Bestseller in Generative AI (hit #1 at launch)</sub>
+<br><br>
+400 pages, 22 techniques, with side-by-side comparisons and diagrams.
+<br><br>
+<sub>33% off with code <b>RAGKING</b></sub>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple&retarget=0&text=book-amt-image"><img src="assets/agent-memory-made-simple-cover.jpg" alt="Agent Memory Made Simple book cover" width="200"></a>
+<br><br>
+<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple&retarget=0&text=book-amt-cta">Agent Memory Made Simple</a></b>
+<br>
+<sub>✨ New: the complete visual guide to memory for AI agents</sub>
+<br><br>
+467 pages on how agents remember: buffers, vector and graph memory, cognitive architectures and the frameworks in production.
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering&retarget=0&text=book-pe-image"><img src="assets/prompt-engineering-cover.jpg" alt="Prompt Engineering from Zero to Hero book cover" width="200"></a>
+<br><br>
+<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering&retarget=0&text=book-pe-cta">Prompt Engineering from Zero to Hero</a></b>
+<br>
+<sub>📖 Master the art of AI interaction</sub>
+<br><br>
+22 chapters of hands-on prompting techniques. The foundation that makes RAG and agents work better.
+</td>
+</tr>
+</table>
+
+**Want all three?** The [Applied AI Bundle](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=bundle-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fapplied-ai-bundle&retarget=0&text=bundle-cta) is prompting, retrieval and memory in one purchase, $48 less than buying them separately.
+
+</div>
+
+<br>
+
+## 🎓 Course: Prompt to Production
 
 <div align="center">
 
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile&retarget=0&text=course-free-module-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system.
-
-**The course is live.** Every module is out, lecture and lab.
+**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-full-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile&retarget=0&text=course-full-cta)** is my full course on building software with AI the way professionals do: the methods behind reliable, modular, production-grade systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system. Every module is live.
 
 ### 🎁 Try a full module, free
 
@@ -46,47 +114,27 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
 
 <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile-direct&retarget=0&text=course-free-module-direct"><img src="assets/free-module-button.svg" alt="Claim your free module" width="420"></a>
 
-### 👉 [**Get the full course**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-full-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile&retarget=0&text=course-full-cta)
-
 </div>
 
----
+<br>
 
-<div align="center">
+## 💌 Newsletter and community
 
-### 🏆 Amazon Bestseller in Generative AI
+- **[DiamantAI Newsletter](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=newsletter-list&target=https%3A%2F%2Fnewsletter.diamant-ai.com&retarget=0&text=newsletter-list)**: one deep dive a week on GenAI engineering, with code. Free, read by 50k+ engineers.
+- **[Discord](https://discord.gg/cA6Aa4uyDX)**: 4k+ members, real-time Q&A and project feedback.
+- **[YouTube](https://www.youtube.com/@DiamantAI)**: the tutorials, as video walkthroughs.
+- **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** and **[X](https://x.com/NirDiamantAI)**: daily notes on what is new and what actually works.
+- **[r/EducationalAI](https://www.reddit.com/r/EducationalAI/)**: discuss prompts, RAG and agent design.
 
-<a href="https://diamant-ai.com/rag-made-simple?code=RAGKING">
-  <img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="320">
-</a>
+<br>
 
-## 📖 [RAG Made Simple](https://diamant-ai.com/rag-made-simple?code=RAGKING) - the complete visual guide to RAG
+## 🤝 Work with me
 
-A 400-page reference: 22 techniques with the intuition behind each, side-by-side comparisons, and diagrams that make the tricky parts finally click.
+If you build for the GenAI stack (vector databases, orchestration, memory, observability, security, evaluation), we can co-create an open-source tutorial that shows your tool inside a real, runnable workflow.
 
-**1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.6 stars**
-
-📖 **PDF + EPUB · GitHub community price: 33% off with code RAGKING**
-
-### 👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://diamant-ai.com/rag-made-simple?code=RAGKING)
-
----
-
-#### Companion: [Prompt Engineering: Master the Art of AI Interaction](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5%3Ftag%3Ddiamantai-ragrm-20&text=Prompt%20Engineering)
-
-22 hands-on prompting techniques. The prompting foundation that makes RAG work better.
-
-</div>
-
----
-
-## 🤝 Collaboration – Feature Your AI Tool
-
-If you build technology for the GenAI stack—vector databases, orchestration layers, observability, or security—let’s co-create an open-source Jupyter tutorial.
-
-- **Reach** – 500,000+ developer views per month  
-- **Format** – Clear, reproducible notebooks with no paywalls  
-- **Goal** – Provide the community with neutral, runnable end-to-end workflows
+- **Reach**: 500,000+ developer views a month across the repositories, plus the newsletter and community.
+- **Format**: clear, reproducible notebooks with no paywall, kept neutral and end to end.
+- **Track record**: the teams below have already done it.
 
 <div align="center">
 
@@ -98,38 +146,18 @@ If you build technology for the GenAI stack—vector databases, orchestration la
 | <a href="https://zilliz.com"><img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png" height="48"></a> | <a href="https://www.portialabs.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_white_tight.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_black_tight.png" height="48"></picture></a> | <a href="https://arcade.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_white_tight.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_black.png" height="48"></picture></a> | <a href="https://contextual.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_black.png" height="48"></picture></a> |
 | <a href="https://www.jetbrains.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_jetbrains_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_jetbrains.png" height="48"></picture></a> | | | |
 
-<p align="center">
-  Interested? Contact me on <b><a href="https://www.linkedin.com/in/nir-diamant-ai/">LinkedIn</a></b> or at <b><a href="https://www.diamant-ai.com/">Diamant-AI.com</a></b>
-</p>
+Interested? Reach me on <b><a href="https://www.linkedin.com/in/nir-diamant-ai/">LinkedIn</a></b> or through <b><a href="https://www.diamant-ai.com/">diamant-ai.com</a></b>.
 
 </div>
 
----
+<br>
 
-## ⭐ Flagship Open-Source Projects
+## ❤️ Keep it free
 
-| Repository | Focus & Core Learning | Live Stars |
-| :--- | :--- | :--- |
-| **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** | Memory, tool routing, guardrails, and CI/CD for production AI agents. | ![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
-| **[Prompt Engineering](https://github.com/NirDiamant/prompt_engineering)** | 20-chapter series moving from prompt basics to advanced steering techniques. | ![Stars](https://img.shields.io/github/stars/NirDiamant/prompt_engineering?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
-| **[RAG Techniques](https://github.com/NirDiamant/rag_techniques)** | 30+ tutorials on advanced retrieval, reranking, and evaluation pipelines. | ![Stars](https://img.shields.io/github/stars/NirDiamant/rag_techniques?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
-| **[GenAI Agents](https://github.com/NirDiamant/genai_agents)** | Reference implementations for autonomous agents and multi-agent workflows. | ![Stars](https://img.shields.io/github/stars/NirDiamant/genai_agents?style=flat-square&labelColor=343b41&color=eac54f&label=STARS) |
+Everything above stays free because people do three small things:
 
----
+- **Star** the repositories you use. It is how other developers find them.
+- **Share** a notebook with your team or on social media.
+- **Sponsor** through [GitHub Sponsors](https://github.com/sponsors/NirDiamant) or [Buy Me a Coffee](https://buymeacoffee.com/diamantai).
 
-## 📚 Learn & Connect
-
-1. 💌 **[DiamantAI Newsletter](https://newsletter.diamant-ai.com)** – Weekly GenAI tutorials and code walkthroughs.
-2. 🧑‍💻 **[r/EducationalAI](https://www.reddit.com/r/EducationalAI/)** – Discuss prompts, RAG, and agent design.
-3. 💬 **[DiamantAI Discord](https://discord.gg/cA6Aa4uyDX)** – Real-time Q&A and project feedback.
-4. 🔗 **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** – Daily updates on new GenAI tech highlights.
-
----
-
-## ❤️ Support Open Source
-
-- **Star** the repositories you use – it helps others find these resources!
-- **Sponsor** via [GitHub Sponsors](https://github.com/sponsors/NirDiamant) or [Buy Me a Coffee](https://buymeacoffee.com/diamantai).
-- **Share** tutorials with your team and on social media.
-
-Thank you for helping keep Generative AI education free for everyone 🙏
+<div align="center"><sub>Thank you for helping keep Generative AI education free for everyone 🙏</sub></div>

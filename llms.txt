@@ -1,6 +1,6 @@
 # Nir Diamant
 
-> Nir Diamant is an AI researcher, educator and community builder working on generative AI, large language models, retrieval-augmented generation and production-grade AI agents. He maintains a set of widely used open-source educational repositories that together carry more than 85,000 GitHub stars (as of September 2026), writes the DiamantAI newsletter, runs a developer community, and is the author of the Amazon bestseller "RAG Made Simple". His work focuses on turning current AI research into reliable, production-ready systems, taught through runnable code rather than prose. This repository is his GitHub profile README.
+> Nir Diamant is an AI researcher, educator and community builder working on generative AI, large language models, retrieval-augmented generation and production-grade AI agents. He maintains a set of widely used open-source educational repositories that together carry more than 85,000 GitHub stars (as of September 2026), writes the DiamantAI newsletter, runs a developer community, and is the author of three books in the Super AI Engineering series, including the Amazon bestseller "RAG Made Simple". His work focuses on turning current AI research into reliable, production-ready systems, taught through runnable code rather than prose. This repository is his GitHub profile README.
 
 ## Primary Open-Source Repositories
 
@@ -21,8 +21,10 @@
 ## Publications and Teaching
 
 - [RAG Made Simple](https://diamant-ai.com/rag-made-simple): A 400-page visual guide to Retrieval-Augmented Generation. Reached number one in Generative AI on Amazon at launch.
-- [Prompt Engineering: Master the Art of AI Interaction](https://www.amazon.com/dp/B0DZ85RPB5): Book on prompting, the foundation under the Prompt_Engineering repository.
-- [Prompt to Production](https://diamant-ai.com/courses): A 20-module course on building software with AI the way professionals do, each module pairing a video lecture with a hands-on lab.
+- [Agent Memory Made Simple](https://www.diamant-ai.com/agent-memory-made-simple): A 467-page visual guide to memory for AI agents, the book version of the Agent_Memory_Techniques repository. Part of the Super AI Engineering series.
+- [Prompt Engineering from Zero to Hero](https://www.diamant-ai.com/prompt-engineering): Book on prompting, the foundation under the Prompt_Engineering repository.
+- [Applied AI Bundle](https://www.diamant-ai.com/applied-ai-bundle): All three books (RAG, prompt engineering, agent memory) in one purchase.
+- [Prompt to Production](https://diamant-ai.com/courses): A 17-module course on building software with AI the way professionals do, each module pairing a video lecture with a hands-on lab.
 - [DiamantAI Newsletter](https://newsletter.diamant-ai.com): Weekly deep dives on GenAI engineering.
 
 ## Community and Contact
