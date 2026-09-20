@@ -10,23 +10,47 @@
 <br>
 
 I turn AI research into systems that hold up in production, and I teach it the same way: **runnable notebooks, not slide decks.**<br>
-Six open-source repos, three books, one course, and a weekly newsletter. Everything here is free to read and run.
+One course, six open-source repos, three books, and a weekly newsletter. Everything here is free to read and run.
 
 <br>
 
 <a href="https://github.com/NirDiamant?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/NirDiamant?style=for-the-badge&label=GitHub%20stars&labelColor=24292e&color=eac54f&logo=github" alt="Total GitHub stars"></a>
 <a href="https://github.com/NirDiamant?tab=followers"><img src="https://img.shields.io/github/followers/NirDiamant?style=for-the-badge&label=Followers&labelColor=24292e&color=0d9488&logo=github" alt="GitHub followers"></a>
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=newsletter-badge&target=https%3A%2F%2Fnewsletter.diamant-ai.com&retarget=0&text=newsletter-badge"><img src="https://img.shields.io/badge/Newsletter-50k%2B%20readers-059669?style=for-the-badge&logo=substack&logoColor=white" alt="DiamantAI newsletter, 50k plus readers"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=newsletter-badge&target=https%3A%2F%2Fnewsletter.diamant-ai.com%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dnewsletter-badge&retarget=0&text=newsletter-badge"><img src="https://img.shields.io/badge/Newsletter-50k%2B%20readers-059669?style=for-the-badge&logo=substack&logoColor=white" alt="DiamantAI newsletter, 50k plus readers"></a>
 <a href="https://discord.gg/cA6Aa4uyDX"><img src="https://img.shields.io/badge/Discord-4k%2B%20members-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DiamantAI Discord, 4k plus members"></a>
 
 <br><br>
 
 **Start here:** &nbsp;
+[Take the course](#-course-prompt-to-production) &nbsp;·&nbsp;
 [Learn for free](#-open-source-learn-by-running-the-code) &nbsp;·&nbsp;
 [Read the books](#-books-the-super-ai-engineering-series) &nbsp;·&nbsp;
-[Take the course](#-course-prompt-to-production) &nbsp;·&nbsp;
 [Get the newsletter](#-newsletter-and-community) &nbsp;·&nbsp;
 [Work with me](#-work-with-me)
+
+</div>
+
+<br>
+
+## 🎓 Course: Prompt to Production
+
+<div align="center">
+
+**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-full-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile&retarget=0&text=course-full-cta)** is my full course on building software with AI the way professionals do: the methods behind reliable, modular, production-grade systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system. Every module is live.
+
+### 🎁 Try a full module, free
+
+<table>
+<tr>
+<td align="center">🎬<br><b>7-minute<br>video lecture</b></td>
+<td align="center">🛠️<br><b>Hands-on<br>tutorial</b></td>
+<td align="center">🤖<br><b>AI assistant<br>inside Claude Code</b></td>
+</tr>
+</table>
+
+One `npm install` adds the module's AI assistant to your Claude Code, and it guides you through the tutorial as you build.
+
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile-direct&retarget=0&text=course-free-module-direct"><img src="assets/free-module-button.svg" alt="Claim your free module" width="420"></a>
 
 </div>
 
@@ -57,9 +81,9 @@ Visual, intuition-first guides. Each one turns a repo above into a book you can 
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-image&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-rag-image"><img src="assets/rag-made-simple-cover.jpg" alt="RAG Made Simple book cover" width="200"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-image&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING%26utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-rag-image&retarget=0&text=book-rag-image"><img src="assets/rag-made-simple-cover.jpg" alt="RAG Made Simple book cover" width="200"></a>
 <br><br>
-<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-rag-cta">RAG Made Simple</a></b>
+<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING%26utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-rag-cta&retarget=0&text=book-rag-cta">RAG Made Simple</a></b>
 <br>
 <sub>🏆 Amazon Bestseller in Generative AI (hit #1 at launch)</sub>
 <br><br>
@@ -68,18 +92,18 @@ Visual, intuition-first guides. Each one turns a repo above into a book you can 
 <sub>33% off with code <b>RAGKING</b></sub>
 </td>
 <td align="center" width="33%" valign="top">
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple&retarget=0&text=book-amt-image"><img src="assets/agent-memory-made-simple-cover.jpg" alt="Agent Memory Made Simple book cover" width="200"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-amt-image&retarget=0&text=book-amt-image"><img src="assets/agent-memory-made-simple-cover.jpg" alt="Agent Memory Made Simple book cover" width="200"></a>
 <br><br>
-<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple&retarget=0&text=book-amt-cta">Agent Memory Made Simple</a></b>
+<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-amt-cta&retarget=0&text=book-amt-cta">Agent Memory Made Simple</a></b>
 <br>
 <sub>✨ New: the complete visual guide to memory for AI agents</sub>
 <br><br>
 467 pages on how agents remember: buffers, vector and graph memory, cognitive architectures and the frameworks in production.
 </td>
 <td align="center" width="33%" valign="top">
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering&retarget=0&text=book-pe-image"><img src="assets/prompt-engineering-cover.jpg" alt="Prompt Engineering from Zero to Hero book cover" width="200"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-pe-image&retarget=0&text=book-pe-image"><img src="assets/prompt-engineering-cover.jpg" alt="Prompt Engineering from Zero to Hero book cover" width="200"></a>
 <br><br>
-<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering&retarget=0&text=book-pe-cta">Prompt Engineering from Zero to Hero</a></b>
+<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-pe-cta&retarget=0&text=book-pe-cta">Prompt Engineering from Zero to Hero</a></b>
 <br>
 <sub>📖 Master the art of AI interaction</sub>
 <br><br>
@@ -88,31 +112,7 @@ Visual, intuition-first guides. Each one turns a repo above into a book you can 
 </tr>
 </table>
 
-**Want all three?** The [Applied AI Bundle](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=bundle-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fapplied-ai-bundle&retarget=0&text=bundle-cta) is prompting, retrieval and memory in one purchase, $48 less than buying them separately.
-
-</div>
-
-<br>
-
-## 🎓 Course: Prompt to Production
-
-<div align="center">
-
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-full-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile&retarget=0&text=course-full-cta)** is my full course on building software with AI the way professionals do: the methods behind reliable, modular, production-grade systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system. Every module is live.
-
-### 🎁 Try a full module, free
-
-<table>
-<tr>
-<td align="center">🎬<br><b>7-minute<br>video lecture</b></td>
-<td align="center">🛠️<br><b>Hands-on<br>tutorial</b></td>
-<td align="center">🤖<br><b>AI assistant<br>inside Claude Code</b></td>
-</tr>
-</table>
-
-One `npm install` adds the module's AI assistant to your Claude Code, and it guides you through the tutorial as you build.
-
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile-direct&retarget=0&text=course-free-module-direct"><img src="assets/free-module-button.svg" alt="Claim your free module" width="420"></a>
+**Want all three?** The [Applied AI Bundle](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=bundle-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fapplied-ai-bundle%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbundle-cta&retarget=0&text=bundle-cta) is prompting, retrieval and memory in one purchase, $48 less than buying them separately.
 
 </div>
 
@@ -120,7 +120,7 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
 
 ## 💌 Newsletter and community
 
-- **[DiamantAI Newsletter](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=newsletter-list&target=https%3A%2F%2Fnewsletter.diamant-ai.com&retarget=0&text=newsletter-list)**: one deep dive a week on GenAI engineering, with code. Free, read by 50k+ engineers.
+- **[DiamantAI Newsletter](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=newsletter-list&target=https%3A%2F%2Fnewsletter.diamant-ai.com%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dnewsletter-list&retarget=0&text=newsletter-list)**: one deep dive a week on GenAI engineering, with code. Free, read by 50k+ engineers.
 - **[Discord](https://discord.gg/cA6Aa4uyDX)**: 4k+ members, real-time Q&A and project feedback.
 - **[YouTube](https://www.youtube.com/@DiamantAI)**: the tutorials, as video walkthroughs.
 - **[LinkedIn](https://www.linkedin.com/in/nir-diamant-ai/)** and **[X](https://x.com/NirDiamantAI)**: daily notes on what is new and what actually works.
@@ -138,13 +138,11 @@ If you build for the GenAI stack (vector databases, orchestration, memory, obser
 
 <div align="center">
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <a href="https://aws.amazon.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/aws_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/aws.png" height="48"></picture></a> | <a href="https://langchain.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" height="48"></picture></a> | <a href="https://redis.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" height="48"></picture></a> | <a href="https://tavily.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" height="48"></picture></a> |
-| <a href="https://mem0.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/Mem0%20Word%20Logo.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/Mem0%20Word%20Logo%20Dark.png" height="48"></picture></a> | <a href="https://coderabbit.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/coderabbit_Dark_Type_Mark.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/coderabbit_Light_Type_Mark_Orange.png" height="48"></picture></a> | <a href="https://cognee.ai"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_cognee.png" height="48"></a> | <a href="https://brightdata.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png" height="48"></picture></a> |
-| <a href="https://runpod.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.png" height="48"></picture></a> | <a href="https://xpander.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="48"></picture></a> | <a href="https://qualifire.ai"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" height="48"></a> | <a href="https://anchorbrowser.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_dark.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png" height="48"></picture></a> |
-| <a href="https://zilliz.com"><img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png" height="48"></a> | <a href="https://www.portialabs.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_white_tight.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_black_tight.png" height="48"></picture></a> | <a href="https://arcade.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_white_tight.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_black.png" height="48"></picture></a> | <a href="https://contextual.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_black.png" height="48"></picture></a> |
-| <a href="https://www.jetbrains.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_jetbrains_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_jetbrains.png" height="48"></picture></a> | | | |
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://aws.amazon.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/aws_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/aws.png" height="48"></picture></a> | <a href="https://langchain.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" height="48"></picture></a> | <a href="https://mistral.ai"><img src="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/mistral.png" height="48"></a> | <a href="https://www.llamaindex.ai"><img src="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/llamaindex.svg" height="48"></a> | <a href="https://redis.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" height="48"></picture></a> |
+| <a href="https://tavily.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" height="48"></picture></a> | <a href="https://mem0.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/Mem0%20Word%20Logo.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/Mem0%20Word%20Logo%20Dark.png" height="48"></picture></a> | <a href="https://coderabbit.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/coderabbit_Dark_Type_Mark.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/coderabbit_Light_Type_Mark_Orange.png" height="48"></picture></a> | <a href="https://www.inngest.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/inngest_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/inngest.svg" height="48"></picture></a> | <a href="https://www.qodo.ai/?utm_source=diamantai&utm_medium=github&utm_campaign=github-profile&utm_content=readme-sponsor"><img src="https://raw.githubusercontent.com/NirDiamant/NirDiamant/main/assets/qodo.svg" height="48"></a> |
+| <a href="https://brightdata.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png" height="48"></picture></a> | <a href="https://runpod.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.png" height="48"></picture></a> | <a href="https://zilliz.com"><img src="https://raw.githubusercontent.com/NirDiamant/RAG_Techniques/main/images/ziliz_logo.png" height="48"></a> | <a href="https://contextual.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_white.png"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_black.png" height="48"></picture></a> | <a href="https://www.jetbrains.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_jetbrains_white.svg"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_jetbrains.png" height="48"></picture></a> |
 
 Interested? Reach me on <b><a href="https://www.linkedin.com/in/nir-diamant-ai/">LinkedIn</a></b> or through <b><a href="https://www.diamant-ai.com/">diamant-ai.com</a></b>.
 
