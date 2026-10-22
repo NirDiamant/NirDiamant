@@ -20,11 +20,10 @@
 
 ## Publications and Teaching
 
-- [RAG Made Simple](https://diamant-ai.com/rag-made-simple): A 400-page visual guide to Retrieval-Augmented Generation. Reached number one in Generative AI on Amazon at launch.
-- [Agent Memory Made Simple](https://www.diamant-ai.com/agent-memory-made-simple): A 467-page visual guide to memory for AI agents, the book version of the Agent_Memory_Techniques repository. Part of the Super AI Engineering series.
-- [Prompt Engineering from Zero to Hero](https://www.diamant-ai.com/prompt-engineering): Book on prompting, the foundation under the Prompt_Engineering repository.
+- [RAG Made Simple](https://www.amazon.com/dp/B0GWDH8JJL): A 400-page visual guide to Retrieval-Augmented Generation. Reached number one in Generative AI on Amazon at launch.
+- [Agent Memory Made Simple](https://www.amazon.com/dp/B0HCRMGHCM): A 467-page visual guide to memory for AI agents, the book version of the Agent_Memory_Techniques repository. Part of the Super AI Engineering series.
+- [Prompt Engineering from Zero to Hero](https://www.amazon.com/dp/B0DZ85RPB5): Book on prompting, the foundation under the Prompt_Engineering repository.
 - [AI Agents Made Simple](https://www.amazon.com/dp/B0HNXRSRH2): The decision guide to building AI agents that work: 28 chapters on what each pattern does, what breaks, what it costs, and when it is overkill. No code. Book 4 of the Super AI Engineering series.
-- [Applied AI Bundle](https://www.diamant-ai.com/applied-ai-bundle): All three books (RAG, prompt engineering, agent memory) in one purchase.
 - [DiamantAI Newsletter](https://newsletter.diamant-ai.com): Weekly deep dives on GenAI engineering.
 
 ## Community and Contact
