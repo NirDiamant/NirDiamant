@@ -10,7 +10,7 @@
 <br>
 
 I turn AI research into systems that hold up in production, and I teach it the same way: **runnable notebooks, not slide decks.**<br>
-One course, six open-source repos, three books, and a weekly newsletter. Everything here is free to read and run.
+Six open-source repos, four books, and a weekly newsletter. Everything here is free to read and run.
 
 <br>
 
@@ -22,42 +22,10 @@ One course, six open-source repos, three books, and a weekly newsletter. Everyth
 <br><br>
 
 **Start here:** &nbsp;
-[Take the course](#-course-prompt-to-production) &nbsp;·&nbsp;
 [Learn for free](#-open-source-learn-by-running-the-code) &nbsp;·&nbsp;
 [Read the books](#-books-the-super-ai-engineering-series) &nbsp;·&nbsp;
 [Get the newsletter](#-newsletter-and-community) &nbsp;·&nbsp;
 [Work with me](#-work-with-me)
-
-</div>
-
-<br>
-
-## 🎓 Course: Prompt to Production
-
-<div align="center">
-
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-full-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile&retarget=0&text=course-full-cta)** is my full course on building software with AI the way professionals do: the methods behind reliable, modular, production-grade systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system. Every module is live.
-
-### 🎁 Try it on your own repo, free
-
-Your coding agent starts every session knowing nothing about your project, so it guesses. Paste one line into the agent you already have open, and about fifteen minutes later your repository has a docs layer written from the code itself, plus a card scoring what your agent knew before and after.
-
-We ran it on six repositories you already depend on. Each one was asked five questions about itself, cold, then again after the layer was written. The last column counts statements in that project's **own documentation** that its **own code disproves**:
-
-| repo | before | after | own docs its code disproves |
-|---|---|---|---|
-| fastapi | 2 of 5 | **5 of 5** | 2 |
-| flask | 3 of 5 | **5 of 5** | 6 |
-| django | 3 of 5 | **4 of 5** | 1 |
-| express | 2 of 5 | **4 of 5** | 4 |
-| requests | 2 of 5 | **4 of 5** | 0 |
-| langchain | 5 of 5 | **4 of 5** | 5 |
-
-Flask's six include four documentation examples that raise `TypeError` when you run them. Langchain scored *lower* afterwards, because it already ships a 380-line agent instruction file and the cold read was grading theirs; that row is in the table anyway.
-
-Clone any of those repos, paste the same line, and check the number yourself. No signup.
-
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile-direct&retarget=0&text=course-free-module-direct"><img src="assets/free-module-button.svg" alt="Claim your free module" width="420"></a>
 
 </div>
 
@@ -82,46 +50,12 @@ Every repository is a curriculum. Each technique is a self-contained notebook yo
 
 ## 📚 Books: the Super AI Engineering series
 
-Visual, intuition-first guides. Each one turns a repo above into a book you can read end to end, with diagrams that make the tricky parts click. PDF and EPUB, free lifetime updates, and chapter 1 of each is free to read.
+Visual, intuition-first guides, with diagrams that make the tricky parts click. All four are on Amazon.
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-image&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING%26utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-rag-image&retarget=0&text=book-rag-image"><img src="assets/rag-made-simple-cover.jpg" alt="RAG Made Simple book cover" width="200"></a>
-<br><br>
-<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING%26utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-rag-cta&retarget=0&text=book-rag-cta">RAG Made Simple</a></b>
-<br>
-<sub>🏆 Amazon Bestseller in Generative AI (hit #1 at launch)</sub>
-<br><br>
-400 pages, 22 techniques, with side-by-side comparisons and diagrams.
-<br><br>
-<sub>33% off with code <b>RAGKING</b></sub>
-</td>
-<td align="center" width="33%" valign="top">
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-amt-image&retarget=0&text=book-amt-image"><img src="assets/agent-memory-made-simple-cover.jpg" alt="Agent Memory Made Simple book cover" width="200"></a>
-<br><br>
-<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-amt-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fagent-memory-made-simple%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-amt-cta&retarget=0&text=book-amt-cta">Agent Memory Made Simple</a></b>
-<br>
-<sub>✨ New: the complete visual guide to memory for AI agents</sub>
-<br><br>
-467 pages on how agents remember: buffers, vector and graph memory, cognitive architectures and the frameworks in production.
-</td>
-<td align="center" width="33%" valign="top">
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-image&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-pe-image&retarget=0&text=book-pe-image"><img src="assets/prompt-engineering-cover.jpg" alt="Prompt Engineering from Zero to Hero book cover" width="200"></a>
-<br><br>
-<b><a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-pe-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fprompt-engineering%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbook-pe-cta&retarget=0&text=book-pe-cta">Prompt Engineering from Zero to Hero</a></b>
-<br>
-<sub>📖 Master the art of AI interaction</sub>
-<br><br>
-22 chapters of hands-on prompting techniques. The foundation that makes RAG and agents work better.
-</td>
-</tr>
-</table>
-
-**Want all three?** The [Applied AI Bundle](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=bundle-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fapplied-ai-bundle%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgithub-profile%26utm_content%3Dbundle-cta&retarget=0&text=bundle-cta) is prompting, retrieval and memory in one purchase, $48 less than buying them separately.
-
-</div>
+- **[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-card-rag-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GWDH8JJL&retarget=0&text=book-card-rag-cta)** - 400 pages, 22 techniques, with side-by-side comparisons and diagrams. 🏆 Amazon bestseller in Generative AI.
+- **[Agent Memory Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-card-am-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HCRMGHCM&retarget=0&text=book-card-am-cta)** - 467 pages on how agents remember: buffers, vector and graph memory, cognitive architectures and the frameworks in production.
+- **[Prompt Engineering: Master the Art of AI Interaction](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-card-pe-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5&retarget=0&text=book-card-pe-cta)** - 22 chapters of hands-on prompting techniques, the foundation that makes RAG and agents work better.
+- **[AI Agents Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=github-profile-readme&click=book-card-agents-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HNXRSRH2&retarget=0&text=book-card-agents-cta)** - the decision guide to building agents that work: 28 chapters on what each pattern does, what breaks, what it costs, and when it is overkill. No code.
 
 <br>
 
